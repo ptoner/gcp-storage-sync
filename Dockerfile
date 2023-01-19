@@ -8,7 +8,7 @@ LABEL "com.github.actions.color"="blue"
 LABEL version="1.0.6"
 LABEL repository="https://github.com/omppye-tech/gcp-storage-sync"
 LABEL homepage="https://omppye.dev/"
-LABEL maintainer="Devalue Human Life Corporation <omppye@gmail.com>"
+LABEL maintainer="Weslen Guerreiro <omppye@gmail.com>"
 
 ADD entrypoint.sh /entrypoint.sh
 ENTRYPOINT ["/entrypoint.sh"]
